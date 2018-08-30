@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535552530 source:c:\temp\delete\prog\tdaauto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+
+1535552429 source:c:\temp\delete\prog\tdaauto\auto.c
+	<stdlib.h>
+	<stdio.h>
+	"auto.h"
+
+1535552764 c:\temp\delete\prog\tdaauto\auto.h
+

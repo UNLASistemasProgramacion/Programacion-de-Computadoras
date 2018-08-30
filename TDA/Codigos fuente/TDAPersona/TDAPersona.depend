@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535560489 source:c:\temp\delete\prog\tdapersona\persona.c
+	<stdlib.h>
+	<stdio.h>
+	"persona.h"
+
+1535560433 source:c:\temp\delete\prog\tdapersona\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1535560489 c:\temp\delete\prog\tdapersona\persona.h
+

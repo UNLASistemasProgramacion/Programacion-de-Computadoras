@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1534984671 source:c:\users\nico_\desktop\listassimple\lista_simplemente_enlazada.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_simplemente_enlazada.h"
+
+1534984727 c:\users\nico_\desktop\listassimple\lista_simplemente_enlazada.h
+	"dato.h"
+
+1534984691 c:\users\nico_\desktop\listassimple\dato.h
+
+1534984796 source:c:\users\nico_\desktop\listassimple\funciones.c
+	"funciones.h"
+
+1534984704 c:\users\nico_\desktop\listassimple\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	"lista_simplemente_enlazada.h"
+
