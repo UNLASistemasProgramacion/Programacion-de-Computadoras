@@ -9,11 +9,13 @@ int main(void) {
 
 
 
-    Empleado empleado1 = crearEmpleado();
+    Auto auto1(2000, "Renault", 3);
 
+	imprimir (auto1);
 
-    mostrarEmpleado(empleado1);
+    Auto auto2 = crearAutoPorTeclado();
 
+imprimir (auto2);
 
 
 
