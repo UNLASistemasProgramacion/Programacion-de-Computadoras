@@ -16,27 +16,18 @@ int main()
 
     //Creamos la lista, del tipo t_lista, se llama lista
     t_lista lista;
+
     //creamos el dato, del tipo t_dato, se llama dato
     t_dato dato;
 
     //Construimos la lista, es decir la iniciamos como nula
     crear_lista(&lista);
 
-    //Vemos si la lista esta vacia o no
-    //recordemos que se lo comparaba al null con *l
-    if(lista_vacia(&lista)){
-        printf("\n La lista esta vacía \n");}
 
-
-    //Vemos si la lista esta llena o no, obviamente no lo esta
-    if(lista_llena(&lista)){
-        printf("\n La lista esta llena \n");}
-    else{
-        printf("\n La lista no esta llena \n");}
 
 
     printf("/////////////////////////////");
-    printf("\n Cargamos 3 elementos \n");
+    printf("\n Cargamos 5 elementos \n");
     printf("/////////////////////////////");
 
     //Primer dato
@@ -54,16 +45,23 @@ int main()
     //Y lo ponemos en la primer ubicacion de la lista
     poner_en_lista_primero(&lista,&dato);
 
+    //Cargamos el 4to dato
+    cargar_dato(&dato);
+    //Y lo ponemos en la primer ubicacion de la lista
+    poner_en_lista_primero(&lista,&dato);
 
-    //Volvemos a ver si la lista esta llena o no
-    if(lista_llena(&lista)){
-        printf("\n La lista esta llena \n");}
-    else{
-        printf("\n La lista no esta llena \n");}
+
+    //Cargamos el 5to dato
+    cargar_dato(&dato);
+    //Y lo ponemos en la primer ubicacion de la lista
+    poner_en_lista_primero(&lista,&dato);
+
+
+
 
 
     printf("/////////////////////////////");
-    printf("//////Ya cargamos los 3 datos////////");
+    printf("//////Ya cargamos los 5 datos////////");
     printf("/////////////////////////////");
 
 
@@ -87,11 +85,14 @@ int main()
     insertar_en_lista_por_posicion(&lista,&dato,&pos);
 
 
+    int contador = 0;
 
     printf("\n Saco de la lista hasta que queda vacía \n");
     while(!lista_vacia(&lista))
         {
+            contador= contador +1;
         sacar_de_lista_primero(&lista,&dato);
+        printf("%d", contador);
         mostrar_dato(&dato);
         }
 
@@ -105,6 +106,9 @@ int main()
     vaciar_lista(&lista);
 
 
+
+
+/*
     printf("\n\n Ahora voy a enlista los números 3, 6, 8 (en orden) \n");
     dato.numero=3;
     poner_en_lista_ultimo(&lista,&dato);
@@ -138,5 +142,7 @@ int main()
 
     printf("\n\n \t\t\t\t\t Fin del programa... \n\n");
     getch();
+
+    */
     return 0;
     }

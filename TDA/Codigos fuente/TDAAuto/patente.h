@@ -1,0 +1,6 @@
+#ifndef PATENTE_H_INCLUDED
+#define PATENTE_H_INCLUDED
+
+
+
+#endif // PATENTE_H_INCLUDED

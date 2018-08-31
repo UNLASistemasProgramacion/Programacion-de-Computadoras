@@ -4,8 +4,13 @@
 //Genero el funcionamiento de cargar datos
 void cargar_dato(t_dato *d)
     {
-    printf("\n\n Ingrese dato a enlistar (número entero): \t");
-    scanf("%d",&d->numero);
+    printf("\n\n Ingrese la edad: \t");
+    scanf("%d",&d->edad);
+    fflush(stdin);
+    char n[20];
+    printf("Ingrese el nombre: \n");
+    gets(n);
+    strcpy(d->nombre,n);
     }
 /////////////////////////////////////////////////////////////////////
 
@@ -13,18 +18,10 @@ void cargar_dato(t_dato *d)
 /////////////////////////////////////////////////////////////////////
 void mostrar_dato(t_dato *d)
     {
-    printf("\n\n Dato desenlistado: \t %d",d->numero);
+    printf("\n\n Dato desenlistado: \t %d anios y su nombre es %s",d->edad, d->nombre);
     }
 
 /////////////////////////////////////////////////////////////////////
 
 
-/////////////////////////////////////////////////////////////////////
-// A CONTINUACIÓN, FUNCIONES DE COMPARACIÓN QUE SE PUEDEN MANDAR COMO PARÁMETRO A LAS FUNCIONES DE LISTA
 
-int comparar_datos(const void *v1,const void *v2)
-    {
-    t_dato *i1=(t_dato*)v1,*i2=(t_dato*)v2;
-    return i1->numero - i2->numero;
-    }
-/////////////////////////////////////////////////////////////////////

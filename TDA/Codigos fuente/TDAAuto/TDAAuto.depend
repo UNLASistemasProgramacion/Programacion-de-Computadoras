@@ -11,3 +11,24 @@
 
 1535552764 c:\temp\delete\prog\tdaauto\auto.h
 
+1535552429 source:c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\tda\codigos fuente\tdaauto\auto.c
+	<stdlib.h>
+	<stdio.h>
+	"auto.h"
+
+1535552764 c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\tda\codigos fuente\tdaauto\auto.h
+
+1535741054 source:c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\tda\codigos fuente\tdaauto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auto.h"
+	"empleados.h"
+
+1535740168 c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\tda\codigos fuente\tdaauto\empleados.h
+
+1535740977 source:c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\tda\codigos fuente\tdaauto\empleados.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"empleados.h"
+

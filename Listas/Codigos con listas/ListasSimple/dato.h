@@ -1,6 +1,7 @@
-typedef struct
+typedef struct Persona
     {
-    int numero;
+    char nombre[20];
+    int edad;
     }t_dato;
 
 
