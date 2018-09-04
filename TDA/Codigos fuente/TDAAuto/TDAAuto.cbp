@@ -37,10 +37,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="auto.h" />
-		<Unit filename="empleados.c">
+		<Unit filename="concesionaria.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="empleados.h" />
+		<Unit filename="concesionaria.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
