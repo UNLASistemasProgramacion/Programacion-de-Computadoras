@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1536345938 source:c:\temp\delete\prog\listadepersonas\main.c
+	<stdlib.h>
+	"ListaEnc.h"
+	"persona.h"
+
+1536345861 source:c:\temp\delete\prog\listadepersonas\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEnc.h"
+	"persona.h"
+
+1536342424 source:c:\temp\delete\prog\listadepersonas\persona.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	<string.h>
+	"persona.h"
+
+1536345219 c:\temp\delete\prog\listadepersonas\listaenc.h
+	"persona.h"
+
+1536341997 c:\temp\delete\prog\listadepersonas\persona.h
+
