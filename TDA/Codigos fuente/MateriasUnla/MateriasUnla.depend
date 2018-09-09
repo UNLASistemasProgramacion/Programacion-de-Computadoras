@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1536528009 source:c:\temp\delete\prog\materiasunla\main.c
+	<stdlib.h>
+	"materia.h"
+	"funciones.h"
+	"docente.h"
+
+1536528072 source:c:\temp\delete\prog\materiasunla\materia.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"materia.h"
+	"docente.h"
+
+1536527880 source:c:\temp\delete\prog\materiasunla\docente.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"docente.h"
+
+1536528114 c:\temp\delete\prog\materiasunla\materia.h
+
+1536525845 source:c:\temp\delete\prog\materiasunla\funciones.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1536528141 c:\temp\delete\prog\materiasunla\funciones.h
+
+1536528135 c:\temp\delete\prog\materiasunla\docente.h
+

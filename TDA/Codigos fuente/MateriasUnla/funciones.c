@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <string.h>
+#include <conio.h>
+
+
+
+#include "funciones.h"
+
+
+void separar(char titulo[20]){
+
+
+printf("///////////////////////////////////////////////////////\n");
+printf("////////////////  %s  /////////////////////\n", titulo);
+printf("///////////////////////////////////////////////////////\n\n\n");
+}
