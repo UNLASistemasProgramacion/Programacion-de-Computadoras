@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1537141626 source:c:\users\nico_\desktop\equipos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"titulo.h"
+	"jugador.h"
+	"equipo.h"
+
+1537141511 c:\users\nico_\desktop\equipos\titulo.h
+
+1537140162 c:\users\nico_\desktop\equipos\jugador.h
+
+1537141470 c:\users\nico_\desktop\equipos\equipo.h
+
+1537141383 source:c:\users\nico_\desktop\equipos\jugador.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"jugador.h"
+	"titulo.h"
+
+1537141596 source:c:\users\nico_\desktop\equipos\equipo.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"equipo.h"
+	"jugador.h"
+
+1537141674 source:c:\users\nico_\desktop\equipos\titulo.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"titulo.h"
+
