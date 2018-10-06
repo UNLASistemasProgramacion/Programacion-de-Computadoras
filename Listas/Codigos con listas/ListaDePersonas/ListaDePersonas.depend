@@ -22,3 +22,26 @@
 
 1536341997 c:\temp\delete\prog\listadepersonas\persona.h
 
+1536345861 source:c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\listas\codigos con listas\listadepersonas\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEnc.h"
+	"persona.h"
+
+1536345219 c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\listas\codigos con listas\listadepersonas\listaenc.h
+	"persona.h"
+
+1536341997 c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\listas\codigos con listas\listadepersonas\persona.h
+
+1536345938 source:c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\listas\codigos con listas\listadepersonas\main.c
+	<stdlib.h>
+	"ListaEnc.h"
+	"persona.h"
+
+1536342424 source:c:\users\nico_\onedrive\documentos\programacion2018\github\programacion-de-computadoras\listas\codigos con listas\listadepersonas\persona.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	<string.h>
+	"persona.h"
+
