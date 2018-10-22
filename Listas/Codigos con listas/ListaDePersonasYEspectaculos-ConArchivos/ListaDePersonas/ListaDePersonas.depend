@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1539464349 source:c:\temp\delete\prog\listadepersonas\main.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	"persona.h"
+	"espectaculo.h"
+
+1536345861 source:c:\temp\delete\prog\listadepersonas\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEnc.h"
+	"persona.h"
+
+1539457896 source:c:\temp\delete\prog\listadepersonas\persona.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	<string.h>
+	"persona.h"
+
+1536345219 c:\temp\delete\prog\listadepersonas\listaenc.h
+	"persona.h"
+
+1539460907 c:\temp\delete\prog\listadepersonas\persona.h
+
+1539459477 source:c:\temp\delete\prog\listadepersonas\espectaculo.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	<string.h>
+	"persona.h"
+	"espectaculo.h"
+
+1539458127 c:\temp\delete\prog\listadepersonas\espectaculo.h
+
+1539459477 source:c:\users\nico_\desktop\listadepersonas\espectaculo.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	<string.h>
+	"persona.h"
+	"espectaculo.h"
+
+1536345219 c:\users\nico_\desktop\listadepersonas\listaenc.h
+	"persona.h"
+
+1539460907 c:\users\nico_\desktop\listadepersonas\persona.h
+
+1539458127 c:\users\nico_\desktop\listadepersonas\espectaculo.h
+
+1536345861 source:c:\users\nico_\desktop\listadepersonas\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEnc.h"
+	"persona.h"
+
+1539464389 source:c:\users\nico_\desktop\listadepersonas\main.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	"persona.h"
+	"espectaculo.h"
+
+1539457896 source:c:\users\nico_\desktop\listadepersonas\persona.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnc.h"
+	<string.h>
+	"persona.h"
+

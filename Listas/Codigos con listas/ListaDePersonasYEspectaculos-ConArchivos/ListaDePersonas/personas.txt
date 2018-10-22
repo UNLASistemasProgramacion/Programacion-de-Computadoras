@@ -1,0 +1,37 @@
+Franco;Espinoza;41027041;2
+Gaston Javier;Fassio;42624355;1
+yesica valeria;Fernandez;40916153;1
+Gianluca;Fernández;37198055;1
+Alan Facundo;Fernández Rolón;42043765;3
+Sergio;Figueroa;41558153;2
+Dario;Follini;40.238.958;2
+Ignacio Ezequiel;Fontan;41.924.054;3
+Mauro;Fourcade;41066500;3
+Matias;Fraiz Pinto;41986557;2
+Ariel Alejandro;Freige;40.571.744;1
+Ignacio Leonel;Frutos;38526642;2
+Agustín;Fuentes;42.625.624;1
+Ivan Esteban;Galarza Herrera;41687557;1
+Sebastian;Gallardo;41.263.554;1
+Ignacio Nahuel;Galván;41726677;3
+Agustin;Gamarra;34.519.093;1
+Alexis Joaquin;García;42.253.257;1
+Lisandro;Gauna;42.778.132;1
+Daiana Elizabeth;Gauna;37.659.719;1
+Amaro Victor Hugo;Gauto;42113246;3
+Leonardo;Gomez;33.654.987;3
+Emmanuel Francisco;Gómez;41140452;1
+Martín Eduardo;Gonzales Quiroga;42.373.330;1
+Leandro Javier;Gonzalez;39.418.831;2
+Melchor;Gonzalez Canosa;41262569;3
+Juan Ignacio;Gramajo;40.848.267;2
+Diego David;Gudino;42.039.584;2
+Gabriel Alberto;Guido;36.923.885;1
+Félix;Iannicello;38.997.496;1
+Franco Ariel;Inchausti;40405605;2
+Franco;Juarez;41921634;1
+Julio;Juarez;40621829;3
+Julen;Kaucic;41723664;3
+Franco Ariel;Lescano;42232265;2
+Santiago Daniel;Longo;4262500;2
+Daniel;Lopez;38.690.253;3
