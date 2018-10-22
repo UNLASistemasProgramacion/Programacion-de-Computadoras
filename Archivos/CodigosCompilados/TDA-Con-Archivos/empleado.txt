@@ -1,0 +1,6 @@
+Nicolas,Perez,1
+Brenda,Gomez,1
+Daiana,Amatriain,2
+Rebeca,Perez,2
+Jorge,Hane,2
+Ludmila,Pane,3

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1539975859 source:c:\users\nico_\desktop\tda-con-archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"evento.h"
+	"empleado.h"
+
+1539976470 c:\users\nico_\desktop\tda-con-archivos\evento.h
+	"empleado.h"
+
+1539976175 c:\users\nico_\desktop\tda-con-archivos\empleado.h
+
+1539976450 source:c:\users\nico_\desktop\tda-con-archivos\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1539976401 source:c:\users\nico_\desktop\tda-con-archivos\evento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"evento.h"
+	"empleado.h"
+
